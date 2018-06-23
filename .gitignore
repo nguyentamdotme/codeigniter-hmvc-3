@@ -8,10 +8,10 @@ application/logs/*
 
 !application/*/.htaccess
 
-#assets/*
+assets/*
 
-#application/config/database.php
-#application/config/constants.php
+application/config/database.php
+application/config/constants.php
 
 composer.lock
 /vendor/
