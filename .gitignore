@@ -8,7 +8,7 @@ application/logs/*
 
 !application/*/.htaccess
 
-assets/*
+#assets/*
 
 #application/config/database.php
 #application/config/constants.php
